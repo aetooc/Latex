@@ -1,4 +1,4 @@
 # Latex
 ---
 
-*My First Latex Assignment*
+- *My First Latex Assignment*
